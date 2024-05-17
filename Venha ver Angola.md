@@ -8,8 +8,10 @@ modification_date: May 16, 2024
 
 Venha ver angola 
 
-Oi venha ver angola 
-<chorus>
+Oi venha ver angola
+
+*chorus*
+
 **Venha ver angola**
 
 Angola e angola e 
@@ -23,21 +25,22 @@ Ai para ver
 Angola e angola e 
 
 **Venha ver angola**
-</chorus>
+
+*end chorus*
 
 Angola do seu Traira 
 De Caicara e Aberre 
 Angola de Canjiquinha 
 E angola de Mucunge 
 
-**<Repeat chorus>**
+**chorus**
 
 Angola e para mi 
 Angola e pra voce 
 Angola e pra todo mundo 
 Que tem amor para aprender
 
-**<chorus />**
+**chorus**
 
 Minha Mae chama Maria,
 e lavadeira de Mare 
