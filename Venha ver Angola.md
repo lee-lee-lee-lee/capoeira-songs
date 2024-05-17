@@ -11,20 +11,20 @@ Venha ver angola
 
 Oi venha ver angola 
 <chorus>
-**Venha ver angola **
+**Venha ver angola**
 
 Angola e angola e 
 
-**Venha ver angola **
+**Venha ver angola**
 
 Ai para ver 
 
-**Venha ver angola **
-**
-**
+**Venha ver angola**
+
+
 Angola e angola e 
 
-**Venha ver angola **
+**Venha ver angola**
 </chorus>
 
 Angola do seu Traira 
@@ -46,11 +46,6 @@ Minha Mae chama Maria,
 e lavadeira de Mare 
 e no meio de tanta Maria
 minha mae me nao sei quem e
-
-**<chorus />**
-**
-**
-**<chorus />**
 
 ![Venha ver Angola](images/Venha%20ver%20Angola.jpeg)
 
